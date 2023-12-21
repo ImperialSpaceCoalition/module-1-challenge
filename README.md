@@ -26,5 +26,5 @@ N/A
 
 ---
 
-Feel free to add more sections or details based on the requirements of your coding class. This is a basic template, and you can customize it to fit the specific needs of your project and class assignment. If you have specific requirements from your instructor, make sure to incorporate them into the README. Good luck with your coding project!
+
 
